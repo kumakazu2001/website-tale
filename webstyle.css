@@ -1,0 +1,57 @@
+header {
+  background-image: url(../images/website-picture/sunrise-1756274_1920.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 500px;
+}
+header .header-box {
+  width: 100%;
+  height: 80px;
+}
+
+.header-box h1 {
+  color: cornsilk;
+  font-family: "Lora", serif;
+  text-align: center;
+  padding-top: 20%;
+  font-size: 2.5em;
+}
+.imagelink {
+  margin-top: 2.5%;
+  justify-content: center;
+  display: flex;
+}
+
+#sword {
+  margin-left: 2.5%;
+}
+#sword:hover {
+  opacity: 0.8;
+}
+#love {
+  margin-left: 2.5%;
+}
+#love:hover {
+  opacity: 0.8;
+}
+
+#dolphine {
+  margin-left: 2.5%;
+}
+
+#dolphine:hover {
+  opacity: 0.8;
+}
+
+#per {
+  margin-left: 2%;
+}
+#per:before {
+  content: "";
+  padding-right: 1%;
+  border-left: 0.5em solid #00ff00;
+}
+
+#attention {
+  margin-left: 2%;
+}
